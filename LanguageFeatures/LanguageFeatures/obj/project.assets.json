@@ -12224,11 +12224,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rimef\\source\\repos\\LanguageFeatures\\LanguageFeatures\\LanguageFeatures.csproj",
+      "projectUniqueName": "D:\\repos\\LanguageFeatures\\LanguageFeatures\\LanguageFeatures.csproj",
       "projectName": "LanguageFeatures",
-      "projectPath": "C:\\Users\\rimef\\source\\repos\\LanguageFeatures\\LanguageFeatures\\LanguageFeatures.csproj",
+      "projectPath": "D:\\repos\\LanguageFeatures\\LanguageFeatures\\LanguageFeatures.csproj",
       "packagesPath": "C:\\Users\\rimef\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rimef\\source\\repos\\LanguageFeatures\\LanguageFeatures\\obj\\",
+      "outputPath": "D:\\repos\\LanguageFeatures\\LanguageFeatures\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
